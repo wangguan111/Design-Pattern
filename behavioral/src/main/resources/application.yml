@@ -1,0 +1,13 @@
+# spring
+spring:
+  application:
+    name: behavioral
+
+# port
+server:
+  port: 8081
+
+#  actuator
+management:
+  server:
+    port: 9081

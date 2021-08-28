@@ -1,0 +1,13 @@
+# spring
+spring:
+  application:
+    name: creational
+
+# port
+server:
+  port: 8082
+
+#  actuator
+management:
+  server:
+    port: 9082

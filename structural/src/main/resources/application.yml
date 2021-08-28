@@ -1,0 +1,13 @@
+# spring
+spring:
+  application:
+    name: structural
+
+# port
+server:
+  port: 8083
+
+#  actuator
+management:
+  server:
+    port: 9083
